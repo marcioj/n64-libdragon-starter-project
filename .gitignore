@@ -1,0 +1,6 @@
+filesystem
+*.bin
+*.dfs
+*.elf
+*.z64
+*.o
